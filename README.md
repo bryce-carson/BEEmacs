@@ -9,7 +9,7 @@ Several projects already leverage web technologies to create powerful applicatio
 - Try RStudio Cloud (uses the Ace Editor)
 - Try Emacs with Spacemacs or Doom (Emacs editor)
 - Try Vim (Vim editor)
-- Try Vim.wasm (Vim in the browser using wasm)
+- Try [Vim.wasm](https://rhysd.github.io/vim.wasm/) (Vim in the browser using wasm)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
